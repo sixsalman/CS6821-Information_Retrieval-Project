@@ -1,9 +1,8 @@
 
-**
+
 
 # Project Specifications:
 
-**
 
 1. Either create your own IR system or modify an existing one. If you create your own, explain all components. If you modify an existing system, explain changes made.
 
