@@ -20,5 +20,5 @@
 **Collaborators:**
  - ***Salman Khan***: https://github.com/sixsalman 
  - ***Edwin Jose***: https://github.com/edwinjosechittilappilly
- - ***Irene Kahvazadeh***
+ - ***Irene Kahvazadeh*** : https://github.com/irenekvzd
  - **Mentor:  *Dr. Alvis Fong*** https://wmich.edu/cs/directory/fong
