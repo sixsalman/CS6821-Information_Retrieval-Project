@@ -1,4 +1,9 @@
-Project Specifications:
+
+**
+
+# Project Specifications:
+
+**
 
 1. Either create your own IR system or modify an existing one. If you create your own, explain all components. If you modify an existing system, explain changes made.
 
@@ -11,3 +16,10 @@ Project Specifications:
 5. Compare different ranking methods: TF, TF-IDF, etc.
 
 6. Use different performance metrics: P, R, F, P@rank, DCG, NDCG, ...
+
+
+**Collaborators:**
+ - ***Salman Khan***: https://github.com/sixsalman 
+ - ***Edwin Jose***: https://github.com/edwinjosechittilappilly
+ - ***Irene Kahvazadeh***
+ - **Mentor:  *Dr. Alvis Fong*** https://wmich.edu/cs/directory/fong
