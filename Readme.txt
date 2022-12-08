@@ -1,0 +1,13 @@
+Project Specifications:
+
+1. Either create your own IR system or modify an existing one. If you create your own, explain all components. If you modify an existing system, explain changes made.
+
+2. Experiment with at least two tokenization methods. If the system has only one tokenization method, devise a variant of that by examining the dataset. In other words, develop suitable strategies for extracting words from the text.
+
+3. Compare stemming and no stemming.
+
+4. Compare stopword removal vs. no stopword removal.
+
+5. Compare different ranking methods: TF, TF-IDF, etc.
+
+6. Use different performance metrics: P, R, F, P@rank, DCG, NDCG, ...
