@@ -2,7 +2,7 @@
 
 # Steps to run the Code
 1. run the file code.py: python ./code.py
-2. Specify the path to the directory that contain the files to be indexedd
+2. Specify the path to the directory that contain the files to be indexed
 3. Submit the Query to see the result.
 
 # Project Specifications:
